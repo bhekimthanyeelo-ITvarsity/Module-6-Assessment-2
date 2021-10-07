@@ -1,0 +1,281 @@
+/* ********************************************************************************************************** */
+/* UNIVERSAL STYLE                                                                                            */
+/* ********************************************************************************************************** */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:white;
+}
+
+p{
+    line-height: 190%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(51, 32, 6);
+}
+
+/* ********************************************************************************************************** */
+/* MENU                                                                                                       */
+/* ********************************************************************************************************** */
+
+#menu{
+    background-color: burlywood;
+    height: 100px;
+}
+
+#menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+#menu li{
+    display: inline-block;
+}
+
+#menu a{
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 100px;
+    color: white;
+
+    padding: 0 40px 0;
+    border: none;
+    display: block;
+}
+
+#menu a:hover{
+    background-color: rgb(117, 88, 65);
+}
+
+/* ********************************************************************************************************** */
+/* HEADER                                                                                                     */
+/* ********************************************************************************************************** */
+
+#header{
+    padding: 60px 0px 40px 0;
+    background-color: black;
+    text-align: center;
+}
+
+#header h1{
+    letter-spacing: 0.1em;
+    font-size: 44px;
+    color: white;
+}
+
+#header p{
+    letter-spacing: 0.1em;
+    color: white;
+}
+
+/* ********************************************************************************************************** */
+/* BANNER                                                                                                     */
+/* ********************************************************************************************************** */
+
+#banner{
+    height: 300px;
+}
+
+#banner img{
+    width: 100%;
+    height: 300px;
+}
+
+/* ********************************************************************************************************** */
+/* PAGE                                                                                                       */
+/* ********************************************************************************************************** */
+
+#page{
+    min-height: 400px;
+    padding: 20px;
+}
+
+#page h2{
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 18px;
+    color: burlywood;
+}
+
+/* CONTENT */
+
+#content{
+    float: left;
+    width: 55%;
+}
+
+#content p{
+    color: black;
+}
+
+.style1 li{
+    color: black;
+}
+
+#content form{
+    color: black;
+}
+
+/* SIDEBAR */
+
+#sidebar{
+    float: right;
+    width: 35%;
+}
+
+/* LISTS */
+
+ul.styled{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul.styled li{
+    border-top: solid 1px brown;
+    padding: 14px 0px;
+}
+
+ul.styled img{
+    width: 10%;
+    height: 22px;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+
+/* ********************************************************************************************************** */
+/* FOOTER                                                                                                     */
+/* ********************************************************************************************************** */
+
+#footer{
+    width: 100%;
+    height: 240px;
+    background-color: rgb(48, 47, 47);
+    padding-top: 25px;
+    padding-left: 22px;
+    clear: both;
+}
+
+#footer h2{
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: whitesmoke;
+}
+
+#footer p{
+    color: whitesmoke;
+}
+
+#footer a{
+    color: whitesmoke;
+}
+
+#box1{
+    float: left;
+    width: 30%;
+    padding-left: 30px;
+}
+
+#box2{
+    float: left;
+    width: 30%;
+    padding-right: 30px;
+}
+
+#box3{
+    float: right;
+    width: 30%;
+    padding-left: 30px;
+}
+
+/* ********************************************************************************************************** */
+/* COPYRIGHT                                                                                                  */
+/* ********************************************************************************************************** */
+
+#copyright{
+    width: 100%;
+    height: 130px;
+    text-align: center;
+    background-color: white;
+    padding-top: 55px;
+    clear: both;
+    padding-right: 0px;
+}
+
+#copyright p{
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: teal;
+}
+   
+/* ********************************************************************************************************** */
+/* CARS                                                                                                       */
+/* ********************************************************************************************************** */
+
+#cars img{ 
+    width: 200px;
+    margin: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
